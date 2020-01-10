@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: restful-api
+  datasource:
+    url: jdbc:mysql://localhost:3306/jdbc?characterEncoding=utf-8
+    username: root
+    password: 123456
+    platform: mysql
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+name: xiaowang
