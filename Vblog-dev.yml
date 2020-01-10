@@ -8,4 +8,4 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: create
-name: xiaowang
+name: xiaowangTTT
